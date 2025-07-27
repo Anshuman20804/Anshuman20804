@@ -8,9 +8,7 @@
 - 🔭 I’m currently working on **web development projects to sharpen my skills and learn industry practices.**  
 - 🌱 I’m currently learning **Machine Learning (Python, Scikit-learn, etc)**  
 - 🤝 I’m looking for **internship opportunities to apply my web development skills and gain hands-on experience.**  
-- 💬 Ask me about **React component-based architecture**  
 - 📫 How to reach me: **deyanshuman208@gmail.com**  
-- ⚡ Fun fact: **I love playing games—Valorant, CS2, and BGMI**
 
 ---
 
